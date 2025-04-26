@@ -1,2 +1,1 @@
-# cooking-share
-# gym
+#photography
