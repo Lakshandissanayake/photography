@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Optional;
 import java.util.List;
 
-@RestController
+@RestController // bus fix done
 @RequestMapping("/api/posts")
 public class PostController {
 
